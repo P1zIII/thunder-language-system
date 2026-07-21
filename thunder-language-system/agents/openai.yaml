@@ -1,0 +1,4 @@
+interface:
+  display_name: "雷霆语言系统"
+  short_description: "为日常中文对话注入高浓度抽象构词、怪诞节奏与强互动感"
+  default_prompt: "Use $thunder-language-system to answer my next request with the 雷霆语言 system."
