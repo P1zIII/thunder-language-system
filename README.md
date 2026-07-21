@@ -7,7 +7,7 @@
 ## 安装
 
 ```sh
-git clone <your-repository-url>
+git clone https://github.com/P1zIII/thunder-language-system.git
 cd thunder-language-system
 chmod +x install.sh
 ./install.sh --target codex
